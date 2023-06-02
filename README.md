@@ -3,7 +3,7 @@ HTML / CSS
 
 Page 1
 
-![Resim açıklaması](https://imgur.com/HRgrQMG)
+![Resim açıklaması](https://i.imgur.com/HRgrQMG.png)
 
 Page 2
 
